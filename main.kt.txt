@@ -1,2 +1,10 @@
-for i in range(10):
+def printHelloWorld():
     print("Hello, World")
+
+def vivaMechMat():
+    print("Viva Mech-mat faculty")
+
+
+for _ in range(10):
+    printHelloWorld()
+vivaMechMat()
